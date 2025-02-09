@@ -1,0 +1,173 @@
+body {
+    margin: 5px;
+}
+
+.button1 {
+    border: 2px solid #F2BAC9;
+    border-radius: 30px;
+    color: #F2BAC9;
+    background-color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+.button1:hover {
+    background-color: #F2BAC9;
+    color: white;
+}
+
+.button2 {
+    border: 2px solid #F2BAC9;
+    border-radius: 30px;
+    color: #F2BAC9;
+    background-color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: none;
+}
+
+.button2:hover {
+    background-color: #F2BAC9;
+    color: white;
+}
+
+.button3 {
+    border: 2px solid #F2BAC9;
+    border-radius: 30px;
+    color: #F2BAC9;
+    background-color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    width: 180px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: none;
+}
+
+.button3:hover {
+    background-color: #F2BAC9;
+    color: white;
+}
+
+.button4 {
+    border: 2px solid #F2BAC9;
+    border-radius: 30px;
+    color: #F2BAC9;
+    background-color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    width: 220px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: none;
+}
+
+.button4:hover {
+    background-color: #F2BAC9;
+    color: white;
+}
+
+.button5 {
+    border: 2px solid #F2BAC9;
+    border-radius: 30px;
+    color: #F2BAC9;
+    background-color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    width: 210px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: none;
+}
+
+.button5:hover {
+    background-color: #F2BAC9;
+    color: white;
+}
+
+.button6 {
+    border: 2px solid #F2BAC9;
+    border-radius: 30px;
+    color: #F2BAC9;
+    background-color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    width: 200px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: none;
+}
+
+.button6:hover {
+    background-color: #F2BAC9;
+    color: white;
+}
+
+.b-container1 {
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+
+.b-container2 {
+    position: absolute;
+    top: 30%;
+    right: 20%;
+}
+
+.b-container3 {
+    position: absolute;
+    bottom: 20%;
+    left: 20%;
+}
+
+.b-container4 {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.b-container5 {
+    position: absolute;
+    bottom: 25%;
+    right: 15%;
+}
+
+.b-container6 {
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+
+#web-content {
+    display: none;
+    height: 100vh;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+
+.message {
+    color: #F2BAC9;
+}
